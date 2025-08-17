@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChilluCodeCompilor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f41ed4cf7c58d09cd7124d5a15af68871ec340a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06dcad570641b26eb6791db4f3b2646a5c0e5977")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChilluCodeCompilor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChilluCodeCompilor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
