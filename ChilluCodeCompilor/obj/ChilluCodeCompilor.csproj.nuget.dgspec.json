@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ChilluCodeCompilor\\ChilluCodeCompilor\\ChilluCodeCompilor\\ChilluCodeCompilor.csproj": {}
+    "D:\\ChilluCodeCompilor2\\ChilluCodeCompilor\\ChilluCodeCompilor.csproj": {}
   },
   "projects": {
-    "D:\\ChilluCodeCompilor\\ChilluCodeCompilor\\ChilluCodeCompilor\\ChilluCodeCompilor.csproj": {
+    "D:\\ChilluCodeCompilor2\\ChilluCodeCompilor\\ChilluCodeCompilor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ChilluCodeCompilor\\ChilluCodeCompilor\\ChilluCodeCompilor\\ChilluCodeCompilor.csproj",
+        "projectUniqueName": "D:\\ChilluCodeCompilor2\\ChilluCodeCompilor\\ChilluCodeCompilor.csproj",
         "projectName": "ChilluCodeCompilor",
-        "projectPath": "D:\\ChilluCodeCompilor\\ChilluCodeCompilor\\ChilluCodeCompilor\\ChilluCodeCompilor.csproj",
+        "projectPath": "D:\\ChilluCodeCompilor2\\ChilluCodeCompilor\\ChilluCodeCompilor.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\ChilluCodeCompilor\\ChilluCodeCompilor\\ChilluCodeCompilor\\obj\\",
+        "outputPath": "D:\\ChilluCodeCompilor2\\ChilluCodeCompilor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
