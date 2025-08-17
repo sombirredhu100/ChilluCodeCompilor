@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ChilluCodeCompilor.Controllers.CompilerController",
+    "Method": "Execute",
+    "RelativePath": "api/Compiler/execute",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ChilluCodeCompilor.Models.CodeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
