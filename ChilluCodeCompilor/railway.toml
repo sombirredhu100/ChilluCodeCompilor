@@ -1,0 +1,14 @@
+﻿[build]
+command = "dotnet publish -c Release -o ./publish"
+
+[deploy]
+startCommand = "dotnet ChiliuCodeCompiler.dll"
+healthcheckPath = "/health"
+
+[variables]
+ASPNETCORE_ENVIRONMENT = "Production"
+ENABLE_SWAGGER = "false"  # Disable in production by default
+API_KEY = { type = "secret" }  # Railway will manage this securely
+
+[plugins]
+"docker-in-docker" = { enabled = true }
